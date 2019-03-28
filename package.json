@@ -4,8 +4,8 @@
   "description": "A tool for restricting PR reviews ",
   "author": "Javon Davis <javonldavis14@gmail.com> (https://github.com/JavonDavis/review-bouncer)",
   "license": "ISC",
-  "repository": "https://github.com//review-bouncer.git",
-  "homepage": "https://github.com//review-bouncer",
+  "repository": "https://github.com/JavonDavis/review-bouncer.git",
+  "homepage": "https://github.com/JavonDavis/review-bouncer",
   "bugs": "https://github.com//review-bouncer/issues",
   "keywords": [
     "probot",
