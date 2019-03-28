@@ -1,6 +1,6 @@
 {
   "name": "review-bouncer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for restricting PR reviews ",
   "author": "Javon Davis <javonldavis14@gmail.com> (https://github.com/JavonDavis/review-bouncer)",
   "license": "ISC",
